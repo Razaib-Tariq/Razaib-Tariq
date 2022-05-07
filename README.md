@@ -8,7 +8,7 @@
 <p align="left"> 
 <a href="mailto:razaibtariq.virtuenetz@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Razaib-Tariq" height="30" width="100"/></a>
 <a href="https://www.linkedin.com/in/razaibtariq/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/razaibtariq/" height="30" width="100" /></a>
- 
+<img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='300'>
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" alt="tensorflow" width="50" height="50"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="python" width="50" height="50"/> </a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="50"/> </a> 
@@ -18,4 +18,4 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white" alt="matlab" width="100" height="40"/> </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razaib-Tariq&show_icons=true&theme=tokyonight" alt="Razaib-Tariq" />
-<img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='300'> </p>
+</p>
