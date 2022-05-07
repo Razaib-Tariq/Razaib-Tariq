@@ -13,6 +13,6 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white" alt="matlab" width="100" height="40"/> </a>  
 </p>
 
-<img align='right' src='https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif' width='300'>
+<img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='300'>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=au1206&show_icons=true&theme=tokyonight" alt="au1206" /></p>
