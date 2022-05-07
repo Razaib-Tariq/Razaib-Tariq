@@ -16,6 +16,6 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white" alt="matlab" width="100" height="40"/> </a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razaib-Tariq&show_icons=true&theme=tokyonight" alt="Razaib-Tariq" />
-<img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='300'>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razaib-Tariq&show_icons=true&theme=tokyonight" alt="Razaib-Tariq" />
+<img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='300'> </p>
