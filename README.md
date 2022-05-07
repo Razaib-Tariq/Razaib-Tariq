@@ -1,6 +1,6 @@
 ![Header image](https://github.com/Razaib-Tariq/Razaib-Tariq/blob/main/header.png)
 
-<h3 align="center">🌱 Passiontinate about Python pyTorch Deep Learning.💞️</h3>
+<h3 align="center">🌱 Passionate About Machine Learning & Deep Learning.💞️</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
