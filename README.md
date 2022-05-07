@@ -15,4 +15,4 @@
 
 <img align='right' src='https://www.ismartcom.com/hubfs/ai%20gif.gif' width='380'>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=au1206&show_icons=true&theme=tokyonight" alt="au1206" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razaib-Tariq&show_icons=true&theme=tokyonight" alt="Razaib-Tariq" /></p>
